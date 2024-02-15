@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "name": "Theta 5",
+        "quantity": 27,
+        "category": "Electronics",
+        "price": 161.28,
+        "description": "Theta 5 in category Electronics. A unique and high-quality product."
+    },
+    {
+        "id": 2,
+        "name": "Kappa 23",
+        "quantity": 39,
+        "category": "Home",
+        "price": 279.16,
+        "description": "Kappa 23 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 3,
+        "name": "Iota 16",
+        "quantity": 5,
+        "category": "Home",
+        "price": 46.04,
+        "description": "Iota 16 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 4,
+        "name": "Zeta 23",
+        "quantity": 4,
+        "category": "Books",
+        "price": 144.26,
+        "description": "Zeta 23 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 5,
+        "name": "Beta 27",
+        "quantity": 49,
+        "category": "Clothing",
+        "price": 12.32,
+        "description": "Beta 27 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 6,
+        "name": "Beta 5",
+        "quantity": 41,
+        "category": "Electronics",
+        "price": 257.14,
+        "description": "Beta 5 in category Electronics. A unique and high-quality product."
+    },
+    {
+        "id": 7,
+        "name": "Gamma 56",
+        "quantity": 14,
+        "category": "Sports",
+        "price": 307.35,
+        "description": "Gamma 56 in category Sports. A unique and high-quality product."
+    },
+    {
+        "id": 8,
+        "name": "Epsilon 8",
+        "quantity": 13,
+        "category": "Clothing",
+        "price": 370.78,
+        "description": "Epsilon 8 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 9,
+        "name": "Theta 56",
+        "quantity": 37,
+        "category": "Sports",
+        "price": 71.26,
+        "description": "Theta 56 in category Sports. A unique and high-quality product."
+    },
+    {
+        "id": 10,
+        "name": "Eta 86",
+        "quantity": 30,
+        "category": "Home",
+        "price": 156.99,
+        "description": "Eta 86 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 11,
+        "name": "Iota 1",
+        "quantity": 33,
+        "category": "Home",
+        "price": 297.64,
+        "description": "Iota 1 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 12,
+        "name": "Zeta 98",
+        "quantity": 22,
+        "category": "Home",
+        "price": 251.91,
+        "description": "Zeta 98 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 13,
+        "name": "Theta 58",
+        "quantity": 31,
+        "category": "Books",
+        "price": 96.81,
+        "description": "Theta 58 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 14,
+        "name": "Gamma 23",
+        "quantity": 26,
+        "category": "Books",
+        "price": 104.16,
+        "description": "Gamma 23 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 15,
+        "name": "Iota 49",
+        "quantity": 43,
+        "category": "Home",
+        "price": 101.9,
+        "description": "Iota 49 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 16,
+        "name": "Beta 13",
+        "quantity": 43,
+        "category": "Books",
+        "price": 152.36,
+        "description": "Beta 13 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 17,
+        "name": "Kappa 11",
+        "quantity": 39,
+        "category": "Electronics",
+        "price": 206.52,
+        "description": "Kappa 11 in category Electronics. A unique and high-quality product."
+    },
+    {
+        "id": 18,
+        "name": "Gamma 41",
+        "quantity": 44,
+        "category": "Clothing",
+        "price": 345.79,
+        "description": "Gamma 41 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 19,
+        "name": "Theta 14",
+        "quantity": 1,
+        "category": "Electronics",
+        "price": 228.32,
+        "description": "Theta 14 in category Electronics. A unique and high-quality product."
+    },
+    {
+        "id": 20,
+        "name": "Gamma 95",
+        "quantity": 36,
+        "category": "Clothing",
+        "price": 452.49,
+        "description": "Gamma 95 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 21,
+        "name": "Epsilon 25",
+        "quantity": 39,
+        "category": "Electronics",
+        "price": 39.3,
+        "description": "Epsilon 25 in category Electronics. A unique and high-quality product."
+    },
+    {
+        "id": 22,
+        "name": "Alpha 49",
+        "quantity": 48,
+        "category": "Clothing",
+        "price": 299.29,
+        "description": "Alpha 49 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 23,
+        "name": "Epsilon 43",
+        "quantity": 27,
+        "category": "Home",
+        "price": 113.09,
+        "description": "Epsilon 43 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 24,
+        "name": "Beta 84",
+        "quantity": 13,
+        "category": "Home",
+        "price": 98.73,
+        "description": "Beta 84 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 25,
+        "name": "Zeta 51",
+        "quantity": 46,
+        "category": "Books",
+        "price": 426.86,
+        "description": "Zeta 51 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 26,
+        "name": "Gamma 4",
+        "quantity": 24,
+        "category": "Books",
+        "price": 438.2,
+        "description": "Gamma 4 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 27,
+        "name": "Iota 58",
+        "quantity": 33,
+        "category": "Clothing",
+        "price": 208.47,
+        "description": "Iota 58 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 28,
+        "name": "Alpha 15",
+        "quantity": 10,
+        "category": "Sports",
+        "price": 65.44,
+        "description": "Alpha 15 in category Sports. A unique and high-quality product."
+    },
+    {
+        "id": 29,
+        "name": "Zeta 39",
+        "quantity": 18,
+        "category": "Clothing",
+        "price": 333.88,
+        "description": "Zeta 39 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 30,
+        "name": "Iota 68",
+        "quantity": 32,
+        "category": "Home",
+        "price": 270.08,
+        "description": "Iota 68 in category Home. A unique and high-quality product."
+    },
+    {
+        "id": 31,
+        "name": "Eta 63",
+        "quantity": 48,
+        "category": "Sports",
+        "price": 190.76,
+        "description": "Eta 63 in category Sports. A unique and high-quality product."
+    },
+    {
+        "id": 32,
+        "name": "Alpha 42",
+        "quantity": 25,
+        "category": "Clothing",
+        "price": 12.28,
+        "description": "Alpha 42 in category Clothing. A unique and high-quality product."
+    },
+    {
+        "id": 33,
+        "name": "Delta 72",
+        "quantity": 33,
+        "category": "Sports",
+        "price": 76.97,
+        "description": "Delta 72 in category Sports. A unique and high-quality product."
+    },
+    {
+        "id": 34,
+        "name": "Alpha 39",
+        "quantity": 35,
+        "category": "Books",
+        "price": 260.7,
+        "description": "Alpha 39 in category Books. A unique and high-quality product."
+    },
+    {
+        "id": 35,
+        "name": "Theta 91",
+        "quantity": 40,
+        "category": "Home",
+        "price": 199.62,
+        "description": "Theta 91 in category Home. A unique and high-quality product."
+    }
+]
