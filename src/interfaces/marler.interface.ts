@@ -10,9 +10,3 @@ export interface MarlerTableData {
 export interface MarlerTableDataProps {
     data: MarlerTableData[]
 }
-
-export interface MarlerTableState {
-    filterKey: string,
-    currentSortDirection: string,
-    data: MarlerTableData[]
-}
