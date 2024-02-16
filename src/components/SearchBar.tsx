@@ -47,13 +47,13 @@ export const SearchBar:React.FC<SearchBarProps> =({
         <div>
             <SearchInput type="text" value={filterInput} onChange={(event) => onFilter("filterInput", event.target.value)} placeholder="filter..."/>
             <DirectionSelect style={sortInput === "" ?  {color: 'grey'}:  undefined} value={sortInput} onChange={(event) => onFilter("sortInput", event.target.value)}>
-                <option value="" disabled hidden>select category</option>
+                <option value="" disabled hidden>select sort category</option>
                 {sortFilterCategories.map((category: string, index: number)=> (
                     <option key={index + category} value={category}>{category}</option>
                 ))}
             </DirectionSelect>
             <DirectionSelect style={sortDirection === "" ?  {color: 'grey'}:  undefined} value={sortDirection} onChange={(event) => onFilter("sortDirection", event.target.value)}>
-                <option value="" disabled hidden>select direction</option>
+                <option value="" disabled hidden>select sort direction</option>
                 <option value="asc">asc</option>
                 <option value="desc">desc</option>
             </DirectionSelect>
