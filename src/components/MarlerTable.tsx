@@ -14,10 +14,6 @@ const TableHeader = styled.th`
   cursor: pointer;
   padding: 8px;
   text-align: left;
-
-  &:hover {
-    background-color: #ddd;
-  }
 `
 
 const TableData = styled.td`
